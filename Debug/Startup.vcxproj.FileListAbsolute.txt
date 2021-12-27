@@ -1,0 +1,4 @@
+C:\Users\Killua\Desktop\Startup\Debug\Startup.exe
+C:\Users\Killua\Desktop\Startup\Debug\Startup.pdb
+E:\IbrahimProject\My Projects\Startup\Debug\Startup.exe
+E:\IbrahimProject\My Projects\Startup\Debug\Startup.pdb

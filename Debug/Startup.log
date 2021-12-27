@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  CChangeText.cpp
+E:\IbrahimProject\My Projects\Startup\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : see previous definition of 'IDCANCEL'
+  ChangeText.cpp
+  Startup.cpp
+E:\IbrahimProject\My Projects\Startup\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : see previous definition of 'IDCANCEL'
+  StartupDlg.cpp
+E:\IbrahimProject\My Projects\Startup\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(11109): message : see previous definition of 'IDCANCEL'
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh(1438): warning RC4005: 'IDCANCEL' : redefinition
+  
+  Startup.vcxproj -> E:\IbrahimProject\My Projects\Startup\Debug\Startup.exe
